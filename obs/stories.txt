@@ -1,6 +1,6 @@
 
 
-    - Yaradılma
+    - :az:obs:1|Yaradılma
     - Günah Dünyaya daxil olur
     - [[:az:obs:03|The Flood]]
     - [[:az:obs:04|God's Covenant with Abraham]]
@@ -36,7 +36,7 @@
     - [[:az:obs:34|Jesus Teaches Other Stories]]
     - [[:az:obs:35|İtmiş oğul məsəli|The Story of the Compassionate Father]]
     - [[:az:obs:36|The Transfiguration]]
-    - [[:az:obs:37|Jesus Raises Lazarus from the Dead]]
+    - [[:az:obs:37|İsa Lazarı ölülərdən dirildir|Jesus Raises Lazarus from the Dead]]
     - [[:az:obs:38|Jesus Is Betrayed]]
     - [[:az:obs:39|Jesus Is Put on Trial]]
     - [[:az:obs:40|Jesus Is Crucified]]
