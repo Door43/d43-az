@@ -1,7 +1,7 @@
 
 
     - [[:az:obs:01|Yaradılma]]
-    - [[:az:obs:03|Günah Dünyaya daxil olur]]
+    - [[:az:obs:02|Günah Dünyaya daxil olur]]
     - [[:az:obs:03|The Flood]]
     - [[:az:obs:04|God's Covenant with Abraham]]
     - [[:az:obs:05|The Son of Promise]]
