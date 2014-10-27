@@ -1,7 +1,7 @@
 
 
-    - :az:obs:1|Yaradılma
-    - Günah Dünyaya daxil olur
+    - [[:az:obs:01|Yaradılma]]
+    - [[:az:obs:03|Günah Dünyaya daxil olur]]
     - [[:az:obs:03|The Flood]]
     - [[:az:obs:04|God's Covenant with Abraham]]
     - [[:az:obs:05|The Son of Promise]]
@@ -50,4 +50,3 @@
     - [[:az:obs:48|Jesus is the Promised Messiah]]
     - [[:az:obs:49|God's New Covenant]]
     - [[:az:obs:50|Jesus Returns]]
-
