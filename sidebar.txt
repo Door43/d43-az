@@ -9,17 +9,12 @@
 
   * [[az:obs|Open Bible Stories (az)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-az|d43-az repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-az/archive/master.zip|d43-az.zip]]
 
 **Recent Changes**
 {{changes>ns = az}}
-
-**Latest Status**
-{{page>en:uwadmin:az:obs:status}}
-
 
 **Language Information**
 
